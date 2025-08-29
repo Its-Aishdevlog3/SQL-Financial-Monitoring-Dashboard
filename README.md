@@ -1,5 +1,4 @@
 # SQL-Financial-Monitoring-Dashboard
-# 💳 SQL-Based Financial Monitoring Dashboard
 
 ## 📌 Project Overview
 This project is a **SQL-based financial monitoring system** that analyzes customer transactions, detects anomalies, and generates insights.  
