@@ -1,0 +1,11 @@
+txn_id,customer_id,txn_date,txn_type,amount,category
+1,1,"2023-10-01 10:23:00",debit,2500.00,Shopping
+2,1,"2023-10-03 12:00:00",credit,50000.00,Salary
+3,1,"2023-10-04 09:30:00",debit,8000.00,Travel
+4,2,"2023-10-02 15:20:00",debit,12000.00,Electronics
+5,2,"2023-10-04 11:15:00",credit,60000.00,Salary
+6,3,"2023-10-01 08:10:00",debit,500.00,Coffee
+7,3,"2023-10-02 14:45:00",debit,20000.00,Shopping
+8,3,"2023-10-05 17:00:00",credit,45000.00,Salary
+9,4,"2023-10-03 09:50:00",debit,35000.00,Jewelry
+10,4,"2023-10-06 10:00:00",credit,70000.00,Salary

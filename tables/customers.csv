@@ -1,0 +1,5 @@
+customer_id,name,age,gender,city,account_type,created_at
+1,Alice,29,Female,Delhi,Savings,2023-01-15
+2,Bob,45,Male,Mumbai,Current,2022-07-01
+3,Charlie,35,Male,Bangalore,Savings,2023-03-12
+4,Diana,41,Female,Chennai,Savings,2021-11-22
